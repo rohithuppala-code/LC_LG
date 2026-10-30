@@ -105,3 +105,8 @@ To fix Gordon's 5-second memory, LangChain assigns a waiter with a notepad stand
 ---
 
 *Next step: When your kitchen grows from 1 conveyor belt to 10 specialized chefs who argue, review, and collaborate—you need **LangGraph**! See `LG_BASICS.md`.*
+
+---
+
+> 💡 **Full Form of LCEL**: **LCEL** stands for **LangChain Expression Language** — it is the official declarative syntax (the `|` pipe operator) used to chain prompts, models, tools, and parsers into a unified, streaming-ready pipeline.
+
