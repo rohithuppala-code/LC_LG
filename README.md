@@ -4,6 +4,12 @@ A progressive, end-to-end repository designed to master modern LLM application d
 
 ---
 
+## 📚 Zero-to-Hero Story Guides (Start Here!)
+- 🍳 **[LangChain Basics Explained Like a Story](file:///c:/Users/sairo/OneDrive/Documents/LC_LG/LC_BASICS.md)**: Understand the Chef, Recipe Card, and Conveyor Belt in 5 minutes with 0 jargon.
+- 🕸️ **[LangGraph Basics Explained Like a Story](file:///c:/Users/sairo/OneDrive/Documents/LC_LG/LG_BASICS.md)**: Understand State Machines, Nodes, Cycles, and Human-in-the-Loop using the 5-Star Restaurant team.
+
+---
+
 ## 🏗️ Repository Architecture
 
 This repository is structured in two progressive phases:
